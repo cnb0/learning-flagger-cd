@@ -5,7 +5,8 @@
    Prometheus metrics for canary analysis
 
 ```
-- Flagger can run automated application analysis, promotion and rollback for the following deployment strategies:
+- Flagger can run automated application analysis, promotion and rollback for 
+  the following deployment strategies:
 
       Canary Release (progressive traffic shifting)
                   Istio, Linkerd, App Mesh, NGINX, Contour, Gloo
